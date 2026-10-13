@@ -128,10 +128,10 @@ Matriz de Riesgos — Ejemplo del Caso Anónimo
 | RPO/RTO definido por 1 persona | 2 | 2 | 4 | 🟡 Medio | Gerencia Tecnología | Mitigar |
 
 Leyenda:
-- 🔴 **Crítico (9): Acción inmediata requerida
-- 🟠 **Alto (6-8):Plan de mitigación en 30 días
-- 🟡 **Medio (3-5): Monitoreo y revisión trimestral
-- ⚪ **Bajo (1-2): Aceptable, documentar
+- 🔴 Crítico (9): Acción inmediata requerida
+- 🟠 Alto (6-8):Plan de mitigación en 30 días
+- 🟡 Medio (3-5): Monitoreo y revisión trimestral
+- ⚪ Bajo (1-2): Aceptable, documentar
 
 ---
 Enlaces Profesionales
